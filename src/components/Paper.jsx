@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const Paper = ({ children, height }) => {
+const Paper = ({ children }) => {
   return (
     <div className="container">
       <div className="frame">
